@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e78986b4","path":"/blogs/chatgpt/how-to-use-sora.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1709054710000,"updatedTime":1709054710000,"contributors":[{"name":"huicheng_chen","email":"huicheng_chen@qq.com","commits":1}]},"filePathRelative":"blogs/chatgpt/how-to-use-sora.md"}');export{e as data};

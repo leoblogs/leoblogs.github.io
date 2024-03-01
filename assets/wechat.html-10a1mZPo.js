@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3b1c0fae","path":"/docs/contact/wechat.html","title":"微信","lang":"en-US","frontmatter":{"title":"微信","date":"2024/02/25"},"headers":[],"git":{"createdTime":1708803942000,"updatedTime":1709309486000,"contributors":[{"name":"huicheng_chen","email":"huicheng_chen@qq.com","commits":2}]},"filePathRelative":"docs/contact/wechat.md"}');export{e as data};

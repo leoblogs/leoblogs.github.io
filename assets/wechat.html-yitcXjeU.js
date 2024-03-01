@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as s,a as e}from"./app-6ldeWLzQ.js";const o="/assets/wechat-DbCxbnqB.jpg",_={},a=e("div",{align:"center"},[e("img",{src:o,style:{zoom:"50%"}})],-1),n=[a];function r(i,l){return c(),s("div",null,n)}const d=t(_,[["render",r],["__file","wechat.html.vue"]]);export{d as default};
